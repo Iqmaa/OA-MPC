@@ -1,0 +1,8 @@
+# Python bytecode and caches
+__pycache__/
+
+# Virtual environments
+avg_env/
+
+# Generated experiment outputs and videos
+results/

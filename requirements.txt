@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+casadi
+shapely>=2.0
+pillow
+imageio-ffmpeg   # for MP4 videos
+anthropic         # optional: only needed for --use-llm (untested)
